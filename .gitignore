@@ -1,0 +1,4 @@
+# папка локальных настроек vs
+.vs/
+FinManager/bin/Debug/
+FinManager/obj/Debug/
