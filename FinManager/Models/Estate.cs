@@ -8,5 +8,6 @@ namespace FinManager.Models
 {
     class Estate
     {
+        public int Id { get; set; }
     }
 }
