@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace FinManager.Models
 {
-    class Savings
+    public class Savings
     {
+        public int SavingId { get; set; }
     }
 }
