@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace FinManager.Models
 {
-    class Wallet
+    public class Wallet
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Surname { get; set; }
+        public decimal Sum { get; set; }
     }
 }
